@@ -1,0 +1,13 @@
+name: horarios
+title: horarios
+username:
+account: kepatechfriendly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5200482
+bundleId: 5290648
+url: https://kepatechfriendly.shinyapps.io/horarios/
+when: 1637798103.99001
+lastSyncTime: 1637798103.99002
+asMultiple: FALSE
+asStatic: FALSE
