@@ -50,7 +50,8 @@ ids <- c("57c08200-e9f7-11eb-9b5b-b36690b9a0e5", "52853e70-e9f7-11eb-9b5b-b36690
          "3e5bf560-e9f7-11eb-9b5b-b36690b9a0e5", "38f7f420-e9f7-11eb-9b5b-b36690b9a0e5", "1b5aca10-1acf-11ec-9dbd-2dda84d1e438", "334bed60-e9f7-11eb-9b5b-b36690b9a0e5", "2569f620-e9f6-11eb-a661-35f176fab723",
          "cd30a830-ea0b-11eb-97c1-35f176fab723", "d1f13d80-ea0b-11eb-97c1-35f176fab723", "d7f157b0-ea0b-11eb-97c1-35f176fab723", "16b901b0-1e90-11ec-a3bf-39d69cec15b9", "21e9d820-1e90-11ec-a3bf-39d69cec15b9",
          "26b2c7d0-ea0c-11eb-97c1-35f176fab723", "2b343140-ea0c-11eb-97c1-35f176fab723")
-names(ids) <- c("RC1-PB","RC1-P1","RC1-P2","RC1-P3","RC1-P4","RC1-P5","RC1-P6-1","RC1-P6-2","RC1-P7","RC1-P8","RC7-PB","RC7-P1","Metro-P3-Avenida","Metro-P3-Interior","Metro-P3-Plaza","Metro-P4")
+names(ids) <- c("RC1-PB","RC1-P1","RC1-P2","RC1-P3","RC1-P4","RC1-P5","RC1-P6-1","RC1-P6-2","RC1-P7","RC1-P8","RC7-PB","RC7-P1","RC7-P2","Metro-P3-Avenida","Metro-P3-Interior","Metro-P3-Plaza","Metro-P4")
+
 
 #=====================================================
 # INTERFAZ DE USUARIO
